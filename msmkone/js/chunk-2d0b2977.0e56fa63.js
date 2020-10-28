@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b2977"],{2586:function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("p",[e._v("评测记录")])])}],u={mounted(){this.$store.commit("changeshow",this.$route.query.name)}},s=u,o=n("2c07"),i=Object(o["a"])(s,c,r,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0b2977.0e56fa63.js.map
